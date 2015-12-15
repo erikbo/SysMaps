@@ -1,0 +1,7 @@
+.idea/*
+src/main/resources/products.xml
+src/main/recources/Products.xsd
+main.iml
+SysMaps.iml
+src/main/java/se/.DS_Store
+target/*
